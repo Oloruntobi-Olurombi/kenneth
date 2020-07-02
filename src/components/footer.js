@@ -7,7 +7,7 @@ function Footer(){
      <div className="footer-text-container">
        <Zoom right cascade>
          <a className="aa" href="https://github.com/Oloruntobi-Olurombi">
-           <h2>Designed and developed with 💖 by Oloruntobi Olurombi</h2>
+           <h2>Designed and developed with <span></span> 💖 by Oloruntobi Olurombi</h2>
          </a>
        </Zoom>
      </div>
