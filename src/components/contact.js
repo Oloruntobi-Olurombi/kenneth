@@ -38,18 +38,18 @@ function Contact(){
        <div className="contact">
          <h1>Contact</h1>
          <div className="inside-contact">
-           <a href="https://github.com/datascientist-kenn">
+           <a href="https://linkedin.com/in/kenneth-dagogo-37917111b">
              <div className="box-1">
                <button>Linkedin</button>
              </div>
            </a>
 
            <a href="mailto:dagogokenn@gmail.com">
-           <div className="box-1">
-             <button>@Mail</button>
-           </div>
-            </a>
-           <a href="https://">
+             <div className="box-1">
+               <button>@Mail</button>
+             </div>
+           </a>
+           <a href="https://github.com/datascientist-kenn">
              <div className="box-1">
                <button>Github</button>
              </div>
