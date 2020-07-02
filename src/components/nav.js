@@ -12,7 +12,7 @@ function Nav (){
        <div className='nav-container' >
             
          <div className="nav-logo">
-         <h3>kenneth Dagogo <span></span>🧑‍💻</h3>
+         <h3>Kenneth Dagogo <span></span>🧑‍💻</h3>
          </div>
 
          <div className="nav-link">

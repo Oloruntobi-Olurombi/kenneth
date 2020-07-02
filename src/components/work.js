@@ -37,7 +37,7 @@ function Work(){
              
                <img src={imgOne} alt="" className="imgOne"/>
              <Zoom bottom cascade>
-                 <h1 className="img-text-1">Covid Tracker Dashboard</h1>
+                 <h1 className="img-text-1">Covid19 Tracker Dashboard</h1>
              </Zoom>
                </a>
            </div>
@@ -89,7 +89,7 @@ function Work(){
            <img src={imgFour} alt="" className="imgFour"/>
              <Zoom bottom cascade>
              <h1 className="img-text-4">
-               Loan Predication 
+               Loan Prediction 
              </h1>
              </Zoom>
                  </a>
@@ -124,7 +124,7 @@ function Work(){
              <a href="https://github.com/datascientist-kenn/Naive-Bayes-on-fetch_20newsgroup">
             <img src={imgSix} alt="" className="imgSix"/>
              <Zoom bottom cascade>
-             <h1 className="img-text-6">Naive Byes on fetch 20 newsgroup</h1>
+             <h1 className="img-text-6">Naive Byes on fetch20newsgroup</h1>
              </Zoom>
              </a>
            
